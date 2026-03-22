@@ -17,7 +17,7 @@ export const Contact = () => {
       >
         <span className="text-sm font-semibold tracking-[0.15em] text-zinc-500 uppercase mb-6 block">Ready to start?</span>
         <h2 className="text-5xl sm:text-6xl md:text-7xl font-medium tracking-tighter text-transparent bg-clip-text bg-gradient-to-br from-white to-zinc-500 mb-12 pb-4 leading-[1.1]">
-          Let's build something.
+          Let&apos;s build something.
         </h2>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 sm:gap-6">
